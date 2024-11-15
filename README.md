@@ -12,5 +12,10 @@ Mi series favorita son ARCANE y Sweet Home.
 
 
 
+<<<<<<< HEAD
 Este es el cambio en la rama main.
 Este es el aporte de la rama de colaboracion.
+=======
+Este es el aporte de la rama de colaboracion.
+Segundo aporte de colaboracion 123.
+>>>>>>> colaboracion
