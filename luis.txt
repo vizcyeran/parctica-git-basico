@@ -1,0 +1,4 @@
+comandos de git
+git push
+git add
+git checkout
